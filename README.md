@@ -125,7 +125,6 @@ npm run dev
 cd ../frontend
 npm run dev
 
-Visit http://localhost:5173
 
 🤝 Acknowledgements
 
